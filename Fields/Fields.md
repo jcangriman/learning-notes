@@ -1,0 +1,17 @@
+- Awkening and integration of cosmic conciousness 
+    - Brain-computer interface 
+        - Life extension 
+            - Understanding and control of complex systems 
+                - Artificial General Intelligence 
+                    - Verified AI (proves properties about AI. For example, it only produces verified code) 
+                        - Automated theorem proving/Verified code generation 
+                            - Category theory 
+                                - Neural Networks 
+                                    - [Lean (proof assistant)](./Lean/Lean.md)
+                                        - Functional Programming? 
+                                        - [Type Theory](./Type_Theory/Type_Theory.md) 
+                                            - [Mathematical Logic](./Mathematical_Logic/Mathematical_Logic.md)
+                                                - [Basic Proof Techniques](./Basic_Proof_Techniques/Basic_Proof_Techniques.md)
+                                                    - [Naive Set Theory](./Naive%20_Set_Theory/Naive_Set_Theory.md)
+                                                        - [Propositional Reasoning](./Propositional_Reasoning/Propositional_Reasoning.md)
+                                                            - [Basic Arithmetic and Algebra](./Basic_Arithmetic_and_Algebra/Basic_Arithmetic_and_Algebra.md)
