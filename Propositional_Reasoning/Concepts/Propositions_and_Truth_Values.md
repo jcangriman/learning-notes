@@ -88,8 +88,17 @@ We use letters $P$, $Q$, $R$ (sometimes $A$, $B$, $C$) to denote arbitrary propo
    - d) "Multiply both sides by $2$"
    - e) "The product of two odd integers is odd"
 
+a) True proposition. b) Predicate c) False proposition. d) Not a proposition. e) True proposition.
+
+
 2. We proved in Concept 4 that "the product of two odd integers is odd." Is this sentence a proposition or a predicate? What makes it different from "$n$ is odd"?
+
+Proposition. n is odd does not quantify n.
 
 3. Consider the sentence "This sentence is false." Why does it fail to be a proposition? Which of the two foundational laws does it violate?
 
+It leads to contradiction in the case you assume is true or false. It violates the Law of Non-Contradiction.
+
 4. Give an example of a proposition whose truth value is currently unknown (other than Goldbach's Conjecture).
+
+Riemman Hypothesis 
